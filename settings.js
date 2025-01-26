@@ -12,7 +12,7 @@ module.exports = {
         // docker exec -it nodered-ew node-red-admin hash-pw
         // yaferreira
         password:
-          "$2b$08$Dnpo9giBS99bbujPk6L/ReE3I32bNES7IqpuO3IXD2YuRZT3zun7a",
+          "$2y$08$B1sn31oARuvy2zuVsRXh8OdJOk2mJkyIei0Tm7KTlqzoAuseJqPqu",
         permissions: "*",
       },
     ],
